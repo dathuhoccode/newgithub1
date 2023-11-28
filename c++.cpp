@@ -1,5 +1,7 @@
 #include<iostream>
 int main(){
     std::cout << "mns";
-    std::cout<<"222";
+    int a;
+    std::cin >> a;
+    std:: cout << a+3;
 }
